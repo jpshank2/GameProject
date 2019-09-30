@@ -12,6 +12,8 @@ app.get("/", function(req, res) {
     res.sendFile(__dirname + "/views/index.html");
 });
 
-app.listen(3500, function() {
-    console.log("You are now listening to port 3500");
+
+const PORT = process.env.PORT || 3500
+app.listen(PORT, function() {
+    console.log("You are now listening to port " + PORT +".");
 });
