@@ -39,7 +39,7 @@ function create() {
     const platforms = map.createDynamicLayer("Platforms", tileset, 0, 0);
     platforms.setCollisionByExclusion(-1, true);
 
-    this.player = this.physics.add.sprite(1850, 1700, 'player');
+    this.player = this.physics.add.sprite(50, 2600, 'player');
     this.player.setCollideWorldBounds(true);
     this.physics.add.collider(this.player, platforms);
 
