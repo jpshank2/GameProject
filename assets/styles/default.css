@@ -1,0 +1,12 @@
+html, body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.centered {
+    text-align: center;
+}
+
+.white-text {
+    color: rgb(255, 255, 255);
+}
