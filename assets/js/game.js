@@ -136,7 +136,7 @@ function create() {
     this.add.text(2600, 1330, "Here are my skills.", {fill: "rgb(0, 0, 0)"});
     this.add.text(1500, 1200, "--HTML\n\n--CSS\n\n--JavaScript\n\n--Game Development\n\n--Responsive Web Design", {fill: "rgb(0, 0, 0)"});
     this.add.text(1800, 1200, "--Event Planning\n\n--Fundraising\n\n--Public Speaking\n\n--Writing\n\n--Email Marketing", {fill: "rgb(0, 0, 0)"});
-    this.add.text(2100, 1200, "--Verbal Communication\n\n--Written Communication\n\n--Cross-Cultural Communication\n\n--Intermediate Spanish\n\n--Huge Fucking Nerd", {fill: "rgb(0, 0, 0)"});
+    this.add.text(2100, 1200, "--Verbal Communication\n\n--Written Communication\n\n--Cross-Cultural Communication\n\n--Intermediate Spanish", {fill: "rgb(0, 0, 0)"});
     this.add.text(1400, 1500, "Here are some of my awards and certifications.", {fill: "rgb(0, 0, 0)"});
     this.add.text(1550, 1550, "Outstanding Sinfonian for Exemplary Service, Belmont University, 2013\n\nThe Complete Java Certification, Udemy, In Progress\n\nThe Complete Cyber Security Course, Udemy, In Progress", {fill: "rgb(0, 0, 0)"});
     this.add.text(1650, 1950, "You might be wondering why I have this extra path that seems unneeded.\nThat is because I am a planner and I want to have space to grow my\nresume game as I grow as a person.", {fill: "rgb(0, 0, 0)"});
